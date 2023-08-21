@@ -62,4 +62,4 @@ Nodes:
         Email: {email}
         DNSEnv: # DNS ENV option used by DNS provider
           CLOUDFLARE_EMAIL: {email}
-          CLOUDFLARE_API_KEY: {apiKey}
+          CLOUDFLARE_API_KEY: {cfApiKey}
