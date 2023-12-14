@@ -1,7 +1,7 @@
 Log:
-  Level: error # Log level: none, error, warning, info, debug
-  AccessPath: {configPath}/access.Log
-  ErrorPath: {configPath}/error.log
+  Level: none # Log level: none, error, warning, info, debug
+  AccessPath: # {configPath}/access.Log
+  ErrorPath: # {configPath}/error.log
 DnsConfigPath: # {configPath}/dns.json # Path to dns config, check https://xtls.github.io/config/dns.html for help
 RouteConfigPath: {configPath}/route.json # Path to route config, check https://xtls.github.io/config/routing.html for help
 InboundConfigPath: # {configPath}/custom_inbound.json # Path to custom inbound config, check https://xtls.github.io/config/inbound.html for help
